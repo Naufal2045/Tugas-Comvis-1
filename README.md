@@ -1,5 +1,3 @@
-# 🧠 Judul Project – (contoh: Prediksi Harga Rumah Menggunakan Machine Learning)
-
 ## 📖 Deskripsi
 Project ini dibuat untuk melakukan analisis dan membangun model machine learning yang dapat memprediksi Salary pada dataset Salary_Data. Project ini digunakan sebagai tugas/latihan pada Study Group CPSlaboratory bagian computer vision.
 
