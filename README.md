@@ -26,12 +26,14 @@ Model yang digunakan:
 
 
 ## 🚀 Model & Evaluasi
-==============================
-PERBANDINGAN MODEL
-==============================
-               Model           MSE        R²
-0  Linear Regression  3.227672e+08  0.879145
-1      Random Forest  5.063952e+07  0.981039
-2            XGBoost  9.577169e+07  0.964140
+==MSE==
+1. Linear Regression: 3.227672e+08
+2. Random Forest:  5.063952e+07
+3. XGBoost:  9.577169e+07
+
+==R^2==
+1. Linear Regression: 0.879145
+2. Random Forest: 0.981039
+3. XGBoost: 0.964140
 
 Model terbaik: Random Forest
